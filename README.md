@@ -14,14 +14,4 @@ This repo demonstrates how to gather cryptocurrency data, perform basic EDA, eng
   - XGBoost
   - Feedforward Neural Network (FFNN)
 
-## Usage
-
-1. Run the notebook to download data and process it.
-2. Explore the data and create features.
-3. Train and evaluate models.
-
-## Requirements
-
-- Python 3.7+
-- Packages listed in `Set Up` of the notebook
 
